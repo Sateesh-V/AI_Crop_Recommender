@@ -1,0 +1,21 @@
+pandas
+fastapi
+scikit-learn
+pydantic
+httpx
+uvicorn
+jupyter
+
+
+#Setup new conda environment
+
+#conda create --name crop_recommender_env python=3.10
+#conda activate crop_recommender_env
+#pip install -r requirements.txt
+
+
+
+#node js installation
+
+#navigate to cd your_parent_folder_path/agri-frontend-simple
+#npm install
